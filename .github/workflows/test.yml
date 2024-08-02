@@ -27,6 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/sauterellie:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/sauter-ellie:latest
             
         
